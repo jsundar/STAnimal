@@ -36,3 +36,9 @@ API calling Steps:
 1. First call the authenticate API and you will be getting access token.
 2. By using this token you need to add Authorization header with brearer value to call all animals API.
  
+Docker:
+This Animal Application can be created as docker image and run with docker instance.
+
+Refer the png file from this source code
+1. build-docker.png
+2. docker-instance.png
